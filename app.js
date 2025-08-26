@@ -14,6 +14,7 @@ const winpatterns=[
     [2,5,8],
     [2,4,6],
     [3,4,5],
+    [3,5,7],
     [6,7,8],
 ];
 const resetGame=()=>{
